@@ -1,0 +1,27 @@
+{
+  "name": "docker-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinhee33/docker-public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinhee33/docker-public/issues"
+  },
+  "homepage": "https://github.com/Jinhee33/docker-public#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mongodb": "^4.12.1",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
